@@ -9,8 +9,3 @@
 * dotnet new console -n "EOFW.AppWin"
 * dotnet new console -n "EOFW.AppWeb"
 * dotnet sln EOFW.sln add (ls -r **/*.csproj)
-
-# ссылки
-
-* [Enciclopedia of War](https://www.lemonamiga.com/games/docs.php?id=73)
-* [Markdown Spec](https://spec.commonmark.org/0.30/)
